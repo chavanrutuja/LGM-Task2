@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chavanrutuja/LGM-Task2/static/css/main.41fb3de8.css",
+    "main.js": "/chavanrutuja/LGM-Task2/static/js/main.5659c735.js",
+    "index.html": "/chavanrutuja/LGM-Task2/index.html",
+    "main.41fb3de8.css.map": "/chavanrutuja/LGM-Task2/static/css/main.41fb3de8.css.map",
+    "main.5659c735.js.map": "/chavanrutuja/LGM-Task2/static/js/main.5659c735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fb3de8.css",
+    "static/js/main.5659c735.js"
+  ]
+}
